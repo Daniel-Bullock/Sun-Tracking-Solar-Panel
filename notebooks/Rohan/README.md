@@ -6,3 +6,6 @@
     - Created first draft of block diagram
     - Discussed high-level requirements of project
     - Discussed requirements of subsystems
+
+## 2/10/2022
+ - Finished proposal with group
