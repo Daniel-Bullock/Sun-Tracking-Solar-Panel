@@ -9,3 +9,9 @@
 
 ## 2/10/2022
  - Finished proposal with group
+
+
+
+## 3/7/2022
+ - Assisted with designing PCB and ensuring PCB passed audit
+
