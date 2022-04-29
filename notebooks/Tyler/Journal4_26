@@ -1,0 +1,3 @@
+We finalized the integration of the sun tracking logic and the phone app logic to be able to run at the same time. Finished putting all the subsystems together. The solar panel can udpate its horizontal position according to sunlight levels, as well as output statistics about the photoresistor values and the voltage/current values produced by the solar panel on a graph across time. 
+
+Today was also our final demo. We displayed the current functionality of our project, with everything functioning as intended except for the tilt motor.
