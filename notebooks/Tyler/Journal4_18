@@ -1,0 +1,1 @@
+The microcontroller finally arrived in ECEB 3026 today. I went and soldered the microcontroller to the pcb, so now we can begin testing the code with the motor driver to determine what values should be given for PWM. 
